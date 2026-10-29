@@ -49,3 +49,7 @@ Thumbs.db
 
 # Streamlit local settings
 .streamlit/secrets.toml
+
+
+# Editor artifact folder
+image-caption-generator-master/
